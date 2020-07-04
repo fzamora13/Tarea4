@@ -17,5 +17,7 @@ Se grafica con la herramienta "welch" la densidad espectral de potencia antes de
 
 Parte V:
 
+Para esta sección se tomaron los primeros 50 bits, no todos los del arreglo. Se decodifica la señal y se obtiene el error y el BER para una tasa de error del 54%. 
+
 Parte VI:
 
